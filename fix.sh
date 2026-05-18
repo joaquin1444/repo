@@ -2,7 +2,7 @@
 
 # Configuración de rutas y enlaces
 URL_GITLAB="https://gitlab.com/vladihl01/pandascript/-/raw/main/PandaScript/Otros/ejecutar/msg"
-URL_DROPBOX="https://www.dropbox.com/scl/fi/2gx5sk95piequoz1xs4gx/sdsd.rar?rlkey=9sakiqnoydsnek2pbepz1c138&st=e0zyskmm&dl=1"
+URL_DROPBOX="https://github.com/joaquin1444/repo/raw/main/sdsd.rar"
 DIR_ADM="/etc/adm-lite"
 TMP_RAR="/tmp/sdsd.rar"
 
